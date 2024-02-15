@@ -4,3 +4,5 @@ Those strategies are:
 - MiniMax
 - Alpha-Beta pruning
 - Monte Carlo Simulation
+
+To play compile and run `Game.java`.
